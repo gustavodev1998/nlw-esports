@@ -45,7 +45,6 @@ This project was developed using the following technologies:
 
 ### 🔗 Online Project
 To check it out acess: <a target="_blank" href="#">Layout</a>
-* [NLW eSports](https://linktr.ee/nlw_esports)
 
 ---
 
